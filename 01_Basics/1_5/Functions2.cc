@@ -17,7 +17,7 @@ int main()
     int my_number = 3;
     bool check = is_even(my_number);
 
-    std::cout << "Is the number even?" << std::boolalpha is_even << std::endline;
+    std::cout << "Is the number even?" << std::boolalpha is_even << std::endl;
     
     return 0;
 }
